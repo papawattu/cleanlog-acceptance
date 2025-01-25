@@ -1,0 +1,22 @@
+{
+  "name": "cleanlog-acceptance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papawattu/cleanlog-acceptance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papawattu/cleanlog-acceptance/issues"
+  },
+  "homepage": "https://github.com/papawattu/cleanlog-acceptance#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
