@@ -10,6 +10,9 @@ on:
       - 'v*.*.*'
   pull_request:
     branches: ['main']
+  registry_package:
+    types: [published]
+    package_name: cleanlog-ui
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
